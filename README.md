@@ -1,8 +1,10 @@
 # Hora-do-dia
 
+<div align="center">
+ Imagens e cor de fundo mudam conforme a hora do dia (Dia , tarde, Noite) 
 
-Suas imagens e cor de fundo mudam conforme a hora do dia (Dia , tarde, Noite)
-
+<img src="https://github.com/CamilaMax/https---github.com-CamilaMax-Hora-do-dia/blob/master/ezgif.com-gif-maker.gif">
+</div>
 
 Linguagens:
 
